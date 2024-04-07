@@ -1,0 +1,6 @@
+LANL
+slit, 500e-6
+L, 4.25345
+L1 =  2.1252
+pixel size, 50e-6
+exposure time, 

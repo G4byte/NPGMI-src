@@ -1,0 +1,9 @@
+L1, 4.229
+L0, 0
+d0, 0
+L, 8.5415
+h, 8.53e-6
+slitx, 643e-6 +/- 49e-6
+slity, 783e-6 +/- 50e-6
+pixel, 30.86e-6
+camera_rotation, 13.3 deg
